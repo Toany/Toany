@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im looking for Data Analyst job.
 
 * 🌍  I'm based in Phangnga, Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/Toany)
+* 🖥️  See my portfolio at [My Portfolio](http://github.com/Toany?tab=repositories)
 * ✉️  You can contact me at [siriroad.p@gmail.com](mailto:siriroad.p@gmail.com)
 
 ### Skills
