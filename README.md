@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siriroad Piyahiran
 ==========================================================================================================================================
 
-This is my Portfolio. Im looking for Data Analyst job.
-
+This is my Portfolio.
 * 🌍  I'm based in Phangnga, Thailand
 * ✉️  You can contact me at [siriroad.p@gmail.com](mailto:siriroad.p@gmail.com)
 
