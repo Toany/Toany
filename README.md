@@ -5,7 +5,7 @@ This is my github portfolio.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [siriroad.p@gmail.com](mailto:siriroad.p@gmail.com)
-* 🧠  I'm learning How to write HTML5 in modern
+* 🧠  I'm learning Rwact and Node.js
 
 ### Skills
 
